@@ -75,7 +75,7 @@ export CLEAN_NEST_MONGO_CONNECTION_STRING='valid mongoDB connection string'
 ### Installing
 
 ```sh
-npm install
+pnpm install
 ```
 
 ### Executing program
