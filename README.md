@@ -84,6 +84,12 @@ pnpm install
 npm start
 ```
 
+## API
+
+(OpenAPI/Swagger)
+
+<http://localhost:3003/api/doc>
+
 ## Authors
 
 Royi Benita
